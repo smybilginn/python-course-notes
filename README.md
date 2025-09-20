@@ -22,7 +22,6 @@ Her konuya ait `.py` örnek dosyaları mevcuttur.
 ## 📝 Not
 
 - Bu repo kişisel bir öğrenme sürecinin parçasıdır.
-- Notlar Türkçe'dir.
 - Geliştirildikçe yeni konular eklenecektir.
 
 ## 🤝 Katkı
