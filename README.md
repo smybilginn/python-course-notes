@@ -5,7 +5,6 @@ Notlar, temel programlama kavramlarından başlayıp fonksiyonlara, döngülere 
 
 ## 📌 İçerik Başlıkları
 
-- Giriş ve Kurulum
 - Değişkenler ve Veri Tipleri
 - Koşullu İfadeler (if-else)
 - Döngüler (for, while)
