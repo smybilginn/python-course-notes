@@ -1,4 +1,4 @@
-# Learn Python – Türkçe Ders Notları
+# Learn Python – Ders Notları
 
 Bu repo, BTK Akademi Sadık Turan Hoca'mın Python kursu boyunca tuttuğum ders notlarını ve örnek kodları içermektedir.  
 Notlar, temel programlama kavramlarından başlayıp fonksiyonlara, döngülere ve daha ileri konulara kadar ilerlemektedir.
